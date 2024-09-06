@@ -1,0 +1,13 @@
+#images {
+    background-color: rgb(250 250 250);
+}
+
+#icon {
+    height: 18vh;
+    margin-right: 1vh;
+}
+
+.myrow {
+    display: flex;
+    justify-content: flex-start;
+}
