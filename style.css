@@ -2,6 +2,10 @@
     background-color: rgb(250 250 250);
 }
 
+img {
+    width: 100%;
+}
+
 #icon {
     height: 18vh;
     margin-right: 1vh;
